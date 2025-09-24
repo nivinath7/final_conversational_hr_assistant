@@ -1,6 +1,7 @@
 import os
 from langchain.chat_models import ChatOpenAI
 from langchain.schema import HumanMessage, SystemMessage
+import streamlit as st
 
 # Ensure your OPENAI_API_KEY is set in your environment
 # We don't need load_dotenv() here if app.py already loaded it
