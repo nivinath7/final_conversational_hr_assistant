@@ -102,7 +102,7 @@ def load_knowledge_base(_file_path):
 
 @st.cache_resource
 def create_vector_store(_text_chunks):
-    embeddings = OpenAIEmbeddings()
+    embeddings = OpenAIEmbeddings(openai_api_key=st.secrets["OPENAI_API_KEY"])
     vector_store = FAISS.from_texts(_text_chunks, embedding=embeddings)
     return vector_store
 
@@ -306,7 +306,7 @@ def reset_to_landing():
 #         vector_store = create_vector_store(text_chunks)
 #         memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True, output_key='answer')
 #         st.session_state.conversation_chain = ConversationalRetrievalChain.from_llm(
-#             llm=ChatOpenAI(model_name="gpt-3.5-turbo"),
+#             llm=ChatOpenAI(model_name="gpt-3.5-turbo", openai_api_key=st.secrets["OPENAI_API_KEY"]),
 #             retriever=vector_store.as_retriever(),
 #             memory=memory,
 #             return_source_documents=True
@@ -343,7 +343,7 @@ def select_domain(domain_name):
         vector_store = create_vector_store(text_chunks)
         memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True, output_key='answer')
         st.session_state.conversation_chain = ConversationalRetrievalChain.from_llm(
-            llm=ChatOpenAI(model_name="gpt-3.5-turbo"),
+            llm=ChatOpenAI(model_name="gpt-3.5-turbo", openai_api_key=st.secrets["OPENAI_API_KEY"]),
             retriever=vector_store.as_retriever(),
             memory=memory,
             return_source_documents=True
