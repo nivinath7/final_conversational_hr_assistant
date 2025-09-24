@@ -10,7 +10,7 @@ def generate_follow_up_questions(question, answer):
     Uses an LLM to generate relevant follow-up questions based on a question and its answer.
     """
     # Initialize the Chat LLM
-    llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.7)
+    llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.7, openai_api_key=st.secrets["OPENAI_API_KEY"])
 
     # Define the prompt structure
     messages = [
