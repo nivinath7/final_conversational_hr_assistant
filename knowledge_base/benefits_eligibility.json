@@ -1,0 +1,129 @@
+{
+    "Compensation & Performance": {
+      "Introduction": "At Optum India, our compensation and performance processes are designed to recognize employee contributions, ensure fairness, and align with business and tax norms in India. Below is the detailed policy and FAQ.",
+      "FAQ": [
+        {
+          "question": "What is the annual performance review cycle timeline?",
+          "answer": "The annual performance review cycle typically runs from January to March. Employees submit self-assessments in January, managers complete evaluations in February, followed by a calibration process in March. Results and ratings are communicated in early April."
+        },
+        {
+          "question": "How is my annual salary increment calculated?",
+          "answer": "Salary increments are based on your performance rating, internal pay band, market benchmarking, and the company’s financial performance. High performers usually receive higher increment percentages. The final increment decision is made during the compensation review (around April), after calibration across teams."
+        },
+        {
+          "question": "When are promotions typically announced?",
+          "answer": "Promotions are generally announced during the annual compensation cycle in April, aligned with performance outcomes and role availability. In exceptional cases (business needs or critical roles), off-cycle promotions may be made at other times of the year."
+        },
+        {
+          "question": "What are the different performance ratings and what do they mean?",
+          "answer": "Typical performance ratings include: “Exceeds Expectations” (outstanding contributions beyond goals), “Meets Expectations” (solid delivery of assigned goals), “Needs Improvement” (performance below expectations; development plan required). Some organizations also include “Significantly Exceeds” or “Unacceptable” categories."
+        }
+      ]
+    },
+    "New Hire Onboarding": {
+      "Introduction": "Welcome to Optum India! Our onboarding is structured to get you up and running, aligned with Indian HR, tax, and compliance norms. Here is what you need to know.",
+      "FAQ": [
+        {
+          "question": "Where do I need to upload my official documents?",
+          "answer": "You need to upload your official documents (educational certificates, identity proofs, PAN, Aadhaar, previous employment letters, etc.) into the Optum Onboarding Portal within 7 business days of your offer. You will receive login credentials via email from the HR team."
+        },
+        {
+          "question": "How do I set up my company email and communication tools?",
+          "answer": "After your joining formalities are completed, our IT team will provision your official Optum email (e.g. yourname@optum.com). You’ll get setup instructions via welcome email for Outlook, Microsoft Teams, internal intranet, and other collaboration tools. Please complete this setup before your first working day."
+        },
+        {
+          "question": "When is the new hire orientation session?",
+          "answer": "Orientation sessions are conducted every Monday (or the nearest business day if Monday is a holiday). The session covers company culture, policies, benefits, compliance, systems, and introductions. Attendance is mandatory for all new hires."
+        },
+        {
+          "question": "Who is my main point of contact in HR for onboarding queries?",
+          "answer": "Your assigned HR Onboarding Specialist is your primary point of contact. Their name, email, and phone details will be shared in your welcome email. For urgent or general queries, you may also contact the central HR Helpdesk."
+        }
+      ]
+    },
+    "Company Policies": {
+      "Introduction": "Optum India’s company policies are created to maintain transparency, consistency, and compliance. This section describes leave, expense, conduct, and hybrid work policies.",
+      "FAQ": [
+        {
+          "question": "How many days of paid leave can I take per year?",
+          "answer": "Full-time employees are entitled to 22 days of paid leave (Casual + Earned) per calendar year. Public holidays and weekends are separate and not counted. Leave accrual, carry-forward rules, and encashment depend on service tenure and policy."
+        },
+        {
+          "question": "What is the process for travel expense reimbursement?",
+          "answer": "Submit your travel expenses within 15 days of trip completion through the Expense Management System. Attach scanned receipts/invoices, boarding passes, lodging bills, local conveyance bills. Your manager must approve before the Finance/Accounts team processes reimbursement."
+        },
+        {
+          "question": "Where can I find the official Code of Conduct document?",
+          "answer": "The Code of Conduct is available on the Optum intranet, under the “Policies & Guidelines” section. All employees are required to review and electronically acknowledge it annually."
+        },
+        {
+          "question": "What is the company's work-from-home policy?",
+          "answer": "Optum India follows a hybrid model: employees may work from home up to 2 days per week (subject to manager approval and role suitability). Business continuity or specific roles may allow more days under special permissions."
+        }
+      ]
+    },
+    "Offboarding & Exit Process": {
+      "Introduction": "When you exit Optum India, we want the process to be smooth, fair, and compliant with Indian statutory and organizational norms. Here’s what you should expect.",
+      "FAQ": [
+        {
+          "question": "When will I receive my final settlement and payslip?",
+          "answer": "Final settlement (pending salary, leave encashment, deductions) is processed within 45 calendar days of your last working day. You will receive your final payslip in the same pay cycle."
+        },
+        {
+          "question": "How do I apply for my experience and relieving letters?",
+          "answer": "Once you complete the clearance and exit formalities, the experience and relieving letters will be auto-generated and made available on the HR portal within 10 working days. You will receive a notification to download them."
+        },
+        {
+          "question": "What is the clearance process I need to follow?",
+          "answer": "The clearance involves returning company assets (laptop, ID badge, access cards), settling any outstanding expenses, audits by IT, Facilities, and your reporting manager, and signing off on the clearance form available on the HR portal. Only after all departments sign off can your exit be finalized."
+        },
+        {
+          "question": "Can I access my employee portal after my last working day?",
+          "answer": "No. Portal access is revoked as of your last working day. However, exit communications (settlement status, letters) may be sent to your provided personal email."
+        }
+      ]
+    },
+    "Benefits & Eligibility": {
+      "Introduction": "Optum India offers comprehensive benefits to you and your dependents. Eligibility and enrollment follow Indian benefits and regulatory norms. Below are the key details.",
+      "FAQ": [
+        {
+          "question": "What are the health insurance plans available to me?",
+          "answer": "All full-time employees are covered under the corporate group health insurance plan (hospitalization, day-care procedures, outpatient cover, emergency, etc.). There may be optional plans (enhanced or premium) that you can opt for at your cost."
+        },
+        {
+          "question": "Am I eligible for the employee wellness program?",
+          "answer": "Yes. All employees are eligible to participate in wellness programs that include preventive health checkups, fitness reimbursements, mental health counseling, telemedicine, and wellness challenges accessible via the Wellness Portal."
+        },
+        {
+          "question": "How do I enroll my family members in my health plan?",
+          "answer": "You can enroll dependents (spouse, children, parents) during the annual enrollment window (usually June–July). Upload identity, proof of relationship, and medical records (if required) in the HR benefits portal."
+        },
+        {
+          "question": "Can I change my benefit selections mid-year?",
+          "answer": "Benefit changes are allowed only during the annual enrollment period or in case of qualifying life events (e.g., marriage, birth, death, loss of other coverage). Changes outside these windows are generally not permitted."
+        }
+      ]
+    },
+    "Payroll & Compliance": {
+      "Introduction": "Payroll and compliance at Optum India strictly follow Indian laws (Income Tax, EPF, TDS, etc.). This section answers common employee queries.",
+      "FAQ": [
+        {
+          "question": "When is the deadline to submit investment proofs for tax savings?",
+          "answer": "For employees under the old tax regime, the deadline to submit investment proofs (for deductions under Sections like 80C, 80D, etc.) is typically between January and March each financial year (by 31st March or as per company policy). :contentReference[oaicite:0]{index=0}"
+        },
+        {
+          "question": "How is my Provident Fund (PF) contribution calculated?",
+          "answer": "Employee’s contribution to EPF is 12% of Basic + Dearness Allowance (if applicable). The employer contributes 12%, of which 3.67% goes to EPF and 8.33% to EPS (capped for high salary) per EPFO norms. :contentReference[oaicite:1]{index=1}"
+        },
+        {
+          "question": "Where can I download my monthly payslips and annual Form 16?",
+          "answer": "Monthly payslips are available via the Payroll or HR portal (usually by 5th of each month). Form 16 for a financial year must be issued by the employer by 15th June of the assessment year. :contentReference[oaicite:2]{index=2}"
+        },
+        {
+          "question": "Who should I contact for discrepancies in my salary?",
+          "answer": "Raise a ticket via the Payroll Helpdesk module in the HR portal. The Payroll team typically responds in 5 working days. If unresolved, escalate to your HR Business Partner."
+        }
+      ]
+    }
+  }
+  
